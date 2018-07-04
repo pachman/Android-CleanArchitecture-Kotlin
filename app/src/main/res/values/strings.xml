@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Movies Kotlin</string>
+    <string name="app_name">SmartHouse</string>
 
     <string name="action_refresh">Refresh</string>
 
@@ -7,4 +7,11 @@
     <string name="failure_server_error">Server Error</string>
     <string name="failure_movies_list_unavailable">Movies Unavailable.</string>
     <string name="failure_movie_non_existent">Movie Not Existent.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
 </resources>
